@@ -1,4 +1,4 @@
-# Stock Price Prediction with Random Forest Regression
+# Stock Price Prediction With Random Forest Regression
 
 This Python project utilizes a Random Forest Regression model to predict stock prices based on historical data and technical indicators. The implementation includes fetching historical stock data, calculating technical indicators, feature selection, model training, prediction, evaluation, and visualization.
 
